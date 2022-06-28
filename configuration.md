@@ -242,7 +242,7 @@ Customize the theme color. Use [CSS3 variables](https://developer.mozilla.org/en
 
 ```js
 window.$docsify = {
-  themeColor: '#3F51B5'
+  themeColor: '#035ea8'
 }
 ```
 
