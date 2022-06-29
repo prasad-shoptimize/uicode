@@ -2,7 +2,7 @@
 
 # EBU UI <small>1.0</small>
 
-> A magical documentation with awesome features
+> An UI guidelines documentation with new themes
 
 - UI best practices
 - Multiple themes
